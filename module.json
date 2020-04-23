@@ -2,7 +2,7 @@
     "name": "Tera-Fish",
     "options": {
         "niceName": "Tera-Fish",
-        "guiName": "自动钓鱼(Tera-Fish)"
+        "guiName": "Tera-Fish(自动钓鱼)"
     },
     "author": "ZC",
     "description": "提取/合成[鱼饵],出售/分解[鱼类],丢弃[鱼肉],沙拉[料理],延迟[拉钩],钓距[设置]",
