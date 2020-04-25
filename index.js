@@ -15,7 +15,8 @@ module.exports = function Tera_Fish(mod) {
 		{abnormalityId:   70275, itemId: 206004, maxAmount:  60, recipeId: 204103}, // 最高阶鱼饵
 		{abnormalityId:   70285, itemId: 206009, maxAmount: 300, recipeId: 204103}, // 最高阶蚯蚓
 		{abnormalityId:   70276, itemId: 206053, maxAmount:  60, recipeId: null},   // 填塞式集魚餌
-		{abnormalityId: 5050003, itemId: 223133, maxAmount:  50, recipeId: null}    // [活動] 福袋路亞
+		{abnormalityId: 5050003, itemId: 223133, maxAmount:  50, recipeId: null},   // [活動] 福袋路亞
+		{abnormalityId:   70371, itemId: 209189, maxAmount:  50, recipeId: null}    // [活動] 鯊魚專用魚餌
 	];
 	
 	let Enabled         = true,   // 总开关
